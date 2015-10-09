@@ -17,6 +17,10 @@
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/master.css">
 
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://www.parsecdn.com/js/parse-latest.js"></script>
+  <script src="js/main.js"></script>
+
 </head>
 <body>
 
@@ -27,11 +31,11 @@
             <h1>Doclette</h1>
             <p>A smarter way to stay organized. Introducting a new way to document your team's work so you can spend more time creating.</p>
         </header>
-        <form>
+        <form id="launch-form">
           <label for="emailaddress">Be notified when Doclette launches</label>
           <div class="row">
             <div class="eight columns">
-              <input class="u-full-width" type="email" placeholder="name@email.com" id="emailaddress">
+              <input class="u-full-width" type="email" placeholder="name@email.com" id="emailAddress">
             </div>
             <div class="four columns">
                 <button class="btn-main" type="submit" value="Submit">Submit</button>
