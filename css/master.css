@@ -1,0 +1,18 @@
+header {
+  margin-top: 160px;
+}
+header h1 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 7em;
+  font-weight: 900;
+
+  color: #00d7c2;
+}
+#emailaddress:focus {
+  border-color: #00d7c2;
+}
+.btn-main {
+  color: #fff;
+  border-color: #04bba9;
+  background-color: #00d7c2;
+}
