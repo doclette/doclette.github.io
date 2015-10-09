@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
       ;
 
   // Parse initialization
-  Parse.initialize("35a5dKIoLmZWB03qKDycgxuVkDByucBCb9bv9d6A", "58IsEe38o4znqQP3nOe99BFcTP3j7csmDp78XcNE");
+  Parse.initialize("XSQvxoGI13LLegfjf2dApbNjlmEdFw81h1OytyPe", "waf1gPoodj0YNRqDJ9mC8YE6xyrsM2A3bc73tciV");
   var EmailCollector = Parse.Object.extend("EmailCollector")
 
   formObject.submit(function (e) {
