@@ -16,3 +16,13 @@ header h1 {
   border-color: #04bba9;
   background-color: #00d7c2;
 }
+
+@media (max-width : 1200px) {
+}
+@media (max-width : 979px) {
+}
+@media (max-width : 767px) {
+  header h1 {
+    font-size: 4em;
+  }
+}
