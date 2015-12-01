@@ -1,12 +1,12 @@
 header {
-  margin-top: 160px;
+  margin-top: 80px;
 }
 #logo {
   display: block;
 
   width: 100%;
-  max-width: 333px;
-  max-height: 333px;
+  max-width: 180px;
+  max-height: 180px;
   margin-bottom: 30px;
 }
 header h1 {
